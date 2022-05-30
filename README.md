@@ -1,2 +1,2 @@
 # playSpace
-Experiment 
+A place to play coding.
