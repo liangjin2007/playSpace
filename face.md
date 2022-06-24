@@ -20,7 +20,10 @@
 它使用两个神经网络，将一个神经网络与另一个神经网络进行对抗，通过GAN我们可以生成足以以假乱真的图像，GAN被广泛的应用在图像生成，语音生成等场景中。例如经典的换脸应用DeepFakes背后的技术便是GAN.
 
 ```
-
+- 强化学习
+```
+知乎 https://zhuanlan.zhihu.com/p/98962807 烦躁了
+```
 
 
 ## Authentic Volumetric Avatars from a Phone Scan
