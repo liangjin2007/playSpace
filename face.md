@@ -32,10 +32,27 @@ Prior :
 Evidence : 
 ```
 
+```
+有关工作涉:
+1. face reconstruction
+2. parametric 3D models
+3. neural rendering
+4. avatar creation
+```
 
 
 
+- light-weight avatar creation
+```
+single camera
+single monocular image
+vidio
+depth images
+high-quality neutral mesh and texture map
+mesh-based avatars can be reconstructed based on several color images captured by a quick phone scan
 
+
+```
 
 
 
